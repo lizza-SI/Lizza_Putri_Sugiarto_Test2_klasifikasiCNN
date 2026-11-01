@@ -1,0 +1,2 @@
+# Lizza_Putri_Sugiarto_Test2_klasifikasiCNN
+Klasifikasi_CNN
